@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/CSharpOO_Operators/bin/Debug/netcoreapp3.1
+/CSharpOO_Operators/obj
